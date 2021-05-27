@@ -15,6 +15,7 @@ public class Tree_Map {
 		
 		System.out.println(m.containsKey(4));
 		System.out.println(m.get(3));
+		System.out.println(m);
 
 	}
 
